@@ -3,7 +3,7 @@ const httpProxy = require('http-proxy');
 
 // 🔒 あなたが決める「合言葉（パスワード）」
 // ※英数字で好きな文字に変えてください
-const MY_SECRET_PASSWORD = "最強本気卍だぜぇw";
+const MY_SECRET_PASSWORD = "hazimete12";
 
 const proxy = httpProxy.createProxyServer({});
 
