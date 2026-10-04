@@ -1,0 +1,12 @@
+{
+  "name": "my-secret-proxy",
+  "version": "1.0.0",
+  "description": "My Private Proxy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "http-proxy": "^1.18.1"
+  }
+}
